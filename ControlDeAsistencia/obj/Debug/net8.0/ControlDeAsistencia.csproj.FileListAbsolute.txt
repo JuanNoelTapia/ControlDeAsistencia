@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\net8.0\ControlDeAsistencia.exe
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\net8.0\ControlDeAsistencia.deps.json
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\net8.0\ControlDeAsistencia.runtimeconfig.json
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\net8.0\ControlDeAsistencia.dll
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\net8.0\ControlDeAsistencia.pdb
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ControlDeAsistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ControlDeAsistencia.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ControlDeAsistencia.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ControlDeAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ControlDeAsistencia.dll
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\refint\ControlDeAsistencia.dll
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ControlDeAsistencia.pdb
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ControlDeAsistencia.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\net8.0\ref\ControlDeAsistencia.dll

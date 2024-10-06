@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\ControlDeAsistencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A197DB-032C-4D21-9158-7638ED32E955}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\dell\\source\\repos\\controldeasistencia\\controldeasistencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A197DB-032C-4D21-9158-7638ED32E955}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A197DB-032C-4D21-9158-7638ED32E955}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\dell\\source\\repos\\controldeasistencia\\controldeasistencia\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A197DB-032C-4D21-9158-7638ED32E955}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ControlDeAsistencia\\ControlDeAsistencia\\Universidad.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Universidad.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ControlDeAsistencia\\ControlDeAsistencia\\Universidad.cs",
+              "RelativeToolTip": "ControlDeAsistencia\\Universidad.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:39:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ControlDeAsistencia\\ControlDeAsistencia\\Program.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ControlDeAsistencia\\ControlDeAsistencia\\Program.cs",
+              "RelativeToolTip": "ControlDeAsistencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:57:32.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
